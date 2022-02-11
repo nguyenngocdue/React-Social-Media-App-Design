@@ -1,0 +1,7 @@
+yarn start là gì?
+lệnh rfc là gì ? react - function - component
+out ra nhiều component
+        <>
+            <Topbar/>
+            <Feed />
+        </>
